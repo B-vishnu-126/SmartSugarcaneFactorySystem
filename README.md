@@ -87,14 +87,6 @@ Built with ❤️ by Vishnudas Bhande.
 
 ---
 
-Do the same for the “How to Run” section so it stays formatted correctly.
-
----
-
-### ✅ **2️⃣ Add a Screenshot Preview (optional but powerful)**
-You can show your GUI right on the GitHub page:  
-
-```markdown
 ## 🖥️ Application Preview
 ![Login Screenshot](exports/Login_preview.png)
 ![Dashboard Screenshot](exports/dashboard_preview.png)
