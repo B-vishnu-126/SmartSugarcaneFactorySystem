@@ -1,0 +1,9 @@
+# UTF-8
+CompanyName=DSOFT TECHNO SYSTEMS
+FileDescription=Smart Sugarcane Factory Management System
+FileVersion=1.0.0
+InternalName=SmartSugarcaneFactory
+LegalCopyright=© 2025 DSOFT TECHNO SYSTEMS. All rights reserved.
+OriginalFilename=SmartSugarcaneFactory.app
+ProductName=Smart Sugarcane Factory Management System
+ProductVersion=1.2.0
